@@ -1,4 +1,4 @@
-![Sanjay's Banner]()
+![Sanjay's Banner](https://github.com/sanjay-r-0508/sanjay-r-0508/blob/main/Asset/Banner.png)
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Josefin+Sans&weight=700&size=30&pause=1000&color=6A0DAD&vCenter=true&width=800&lines=Data+Scientist+%7C+Problem-Solver;ML+Engineer+%7C+Creating+Systems;HardWorker+%7C+Turning+Ideas;Stock+Market+Analyser+%7C+Predicting+Trends;Cricket+%7C+Passionate+Player" alt="Typing SVG"/>
