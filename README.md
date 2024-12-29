@@ -5,7 +5,7 @@
 </p>
 
 
-## Hi, I'm Subash Kumar K 👋
+## Hi, I'm Sanjay R 👋
 
 <p align="center">
     <img src="https://img.shields.io/badge/Self--Taught_Software_Engineer_%26_Cybersecurity_Enthusiast-crimson?style=for-the-badge&logoColor=white" alt="Self-Taught Software Engineer & Cybersecurity Enthusiast" width="3000" height="60"/>
